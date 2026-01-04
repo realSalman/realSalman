@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 About Me:
-
 🖥️ Full-stack web dev <br>🏷️ I build things that work, not just look good<br>🔗 Frontend-first, backend-capable
 
 
