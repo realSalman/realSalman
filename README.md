@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![hippo] https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFoYzM3M2FpcTQ5dGY0NHJvNzk5eW02cm8wYnVuZWp3bGRsMnVncSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif
+![hippo] giphy.gif
 About Me:<br>
 🖥️ Full-stack web dev <br>🏷️ I build things that work, not just look good<br>🔗 Frontend-first, backend-capable
 
