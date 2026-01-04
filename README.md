@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading giphy.gif…]()
 
+![giphy](https://github.com/user-attachments/assets/7191fc8b-3c49-4357-acee-89181e043811)
 
 About Me:<br>
 🖥️ Full-stack web dev <br>🏷️ I build things that work, not just look good<br>🔗 Frontend-first, backend-capable
