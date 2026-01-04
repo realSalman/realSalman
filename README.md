@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![giphy](https://github.com/user-attachments/assets/7191fc8b-3c49-4357-acee-89181e043811)
+![212748830-4c709398-a386-4761-84d7-9e10b98fbe6e](https://github.com/user-attachments/assets/ae8355e9-a63a-487e-999b-6fc78287468f)
+
 
 ## About Me:<br>
 🖥️ Full-stack web dev <br>🏷️ I build things that work, not just look good<br>🔗 Frontend-first, backend-capable
