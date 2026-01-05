@@ -1,4 +1,3 @@
-## Assalamualaikum
 ## Hi there 👋
 
 <!--
