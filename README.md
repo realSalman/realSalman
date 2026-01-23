@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## About Me:<br>
--Full-stack web dev <br>-I build things that work, not just look good<br>-Frontend-first, backend-capable
+-Full-stack web dev <br>-learning and <br>-building things that work, not just look good
 
 ## Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) <br>
