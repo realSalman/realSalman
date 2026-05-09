@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## About Me:<br>
--learning and <br>-building
+-learning <br>and <br>-building
 
 ## Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) <br>
