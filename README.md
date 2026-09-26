@@ -1,7 +1,7 @@
 I'm a developer with 2+ years of experience building complete systems from scratch. I enjoy taking full ownership of projects from idea to deployment, and I adapt quickly to new tools along the way. My core stack is TypeScript and MERN, with hands-on experience in Docker, AWS, and Cloudflare
 
 I have also interest in blockchain and especially in smart contracts.
-got an opportunity to build a telegram bot with a simple smart contract in TON blockchain for a client though that mf tried to scam!
+got an opportunity to build a telegram bot with a simple smart contract in TON blockchain for a client though that mf tried to scam me!
 
 ## Veteran in:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge"> <br>
